@@ -13,9 +13,13 @@ const Hero = (props) => (
           My Personal Portfolio
         </SectionTitle>
         <SectionText>
-        The purpose of JavaScript Mastery is to help aspiring and established developers to take their development skills to the next level and build awesome apps.
+        Hi, my name is Hussein B. Fawaz .<br></br>A Full Stack Developer .<br></br> I live in Lebanon and currently studying master's in computer science at Lebanese University.
         </SectionText>
-        <Button onClick={props.handleClick}>Learn More</Button>
+        
+        <Button  onClick={(e) => {
+      e.preventDefault();
+      window.location.href='https://www.keepandshare.com/doc29/112509/my-resume-pdf-46k?da=y';
+      }} >My Resume</Button>
       </LeftSection>
     </Section>
   </>
