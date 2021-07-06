@@ -46,17 +46,7 @@ export const projects = [
     visit: 'https://github.com/hbfawaz112/Javafx-MathGame-Drag-And-Drop',
     id: 1,
   },
-  {
-    title: 'Realtime chat application',
-    description:"A RealTime chat application developped using PHP with MySql for the backend and HTML5-CSS3-JS for the frontend with AJAX technology. This webapp contain authentication (login /signup) , a list of user with an icon represent the status of a user (online/offline) with a search bar for a specific user and the chat page between 2 users in realtime.",
-       image: '/images/realchat.png',
-    tags: ['PHP','MySQL' , 'AJAX' , 'JQeury'],
-    source: 'https://google.com',
-    visit: 'https://github.com/hbfawaz112/Realtime-Chat-Application',
-    id: 1,
-  },
-
-{
+ {
     title: 'Twitter Clone',
     description:"A social media website like twitter developed using PHP and MongoDB for the backend and HTML/CSS/BOOTSTRAP for the frontend, Containing authentication to create account and login , post a new tweet , follow and unfollow users , like and comment tweests ,ect.. ",
         image: '/images/twitter.png',
