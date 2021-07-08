@@ -5,7 +5,7 @@ export const projects = [
       image: '/images/Petrol.PNG',
       tags: ['Flutter','Firebase', 'PHP', 'MySQL', 'Ajax' , 'JQuery'],
     source: 'https://google.com',
-    visit: 'https://github.com/hbfawaz112/Petrol-Station-Application',
+    visit: 'https://github.com/hbfawaz112/Petrol-Station',
     id: 0,
   },
   
