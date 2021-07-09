@@ -13,7 +13,7 @@ const Technologies = () =>  (
       I've worked with a range of technologies in the web development from backend to frontend , 
       mobile app development to desktop applications.
 <br /><br />
-    <ListTitle>Programing Languages  </ListTitle>C/C++  -  Java  - Python  -  C#  -  PHP - JavaScript - Dart - SQL . 
+    <ListTitle>Programming languages  </ListTitle>C/C++  -  Java  - Python  -  C#  -  PHP - JavaScript - Dart - SQL . 
     
       
     </SectionText>
