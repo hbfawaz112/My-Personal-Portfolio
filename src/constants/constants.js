@@ -18,7 +18,15 @@ export const projects = [
     visit: 'https://github.com/hbfawaz112/LFA-Grassroots',
     id: 0,
   },
-
+  {
+    title: 'UL-FS Form Of Discussion',
+    description:"A website developed using ASP.NET MVC to let students communicate between them by asking public questions or private questions based on many factors , and reply to these questions",
+    image: '/images/ulfs-forum.PNG',
+    tags: ['ASP.NET-MVC ', ' Microsoft SQL Server  ' ,' Bootstrap'],
+    source: 'https://google.com',
+    visit: 'https://github.com/hbfawaz112/UL-FS-Form-of-Discussion-ASP.NET-MVC',
+    id: 1,
+  },
   {
     title: 'Moodle ULFS',
     description:"This is a web project developed using php-mysql , it’s about 2 website one for the instructors to upload files as pdf courses, sessions, … , and one for the students that can acces to their account and download these files.",
@@ -26,15 +34,6 @@ export const projects = [
     tags: ['PHP', 'MYSQL' ,'Bootstrap'],
      source: 'https://google.com',
     visit: 'https://github.com/hbfawaz112/moodle-UL-Faculity-Of-Science',
-    id: 1,
-  },
-  {
-    title: 'UL-FS Form Of Discussion',
-    description:"A website developed using ASP.NET MVC to let students communicate between them by asking public questions or private questions based on many factors , and reply to these questions",
-    image: '/images/form2.png',
-    tags: ['ASP.NET-MVC ', ' Microsoft SQL Server  ' ,' Bootstrap'],
-    source: 'https://google.com',
-    visit: 'https://github.com/hbfawaz112/UL-FS-Form-of-Discussion-ASP.NET-MVC',
     id: 1,
   },
   {
