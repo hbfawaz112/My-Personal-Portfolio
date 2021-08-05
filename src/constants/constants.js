@@ -8,7 +8,15 @@ export const projects = [
     visit: 'https://github.com/hbfawaz112/Petrol-Station',
     id: 0,
   },
-  
+  {
+    title: 'FCSS Web Site',
+    description: "Fawaz Computer & Security System Site contain Ecommerce section with add to cart , check out , a contact page and a store page and more coming out later..",
+      image: '/images//fcss.PNG',
+      tags: ['HTML/CSS','ReactJS', 'Commerce.js', 'Material UI', 'Bootstrap'],
+    source: 'https://google.com',
+    visit: 'https://github.com/hbfawaz112/FCSS-Site',
+    id: 0,
+  },
   {
     title: 'LFA Grassroots',
     description: "This project is implemented using flutter technologie with mysql backend. Consist as an admin page (web page) to upload all data required to the grassroot football league (annoncment , matches , results , ranking,ect..) , and mobile application that work on both android and ios devices for the users to see these data.",
