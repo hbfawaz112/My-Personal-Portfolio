@@ -10,7 +10,7 @@ export const projects = [
   },
   {
     title: 'FCSS Web Site',
-    description: "Fawaz Computer & Security System Site contain Ecommerce section with add to cart , check out , a contact page and a store page and more coming out later..",
+    description: "Fawaz Computer & Security System a small company located in Tebnin, this project is a web site for this business contain E-commerce section with add to cart, product detail , check out , a contact page and a store page and more coming out later..",
       image: '/images//fcss1.png',
       tags: ['ReactJS', 'Commerce.js','Material UI'],
     source: 'https://google.com',
