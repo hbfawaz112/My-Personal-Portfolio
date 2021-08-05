@@ -11,8 +11,8 @@ export const projects = [
   {
     title: 'FCSS Web Site',
     description: "Fawaz Computer & Security System Site contain Ecommerce section with add to cart , check out , a contact page and a store page and more coming out later..",
-      image: '/images//fcss.PNG',
-      tags: ['HTML/CSS','ReactJS', 'Commerce.js', 'Material UI', 'Bootstrap'],
+      image: '/images//fcss1.png',
+      tags: ['ReactJS', 'Commerce.js','Material UI'],
     source: 'https://google.com',
     visit: 'https://github.com/hbfawaz112/FCSS-Site',
     id: 0,
