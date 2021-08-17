@@ -36,6 +36,16 @@ export const projects = [
     id: 1,
   },
   {
+    title: 'Blogging Platform ',
+    description:"A Blog Site containing the following features : Dynamic Blog pages , have a dedicated editor for blogs, you can add/make as many blogs you want, you can add Headings, paragraphs, and Images to the blog post ,have read more blogs section also.",
+    image: '/images/BlogNodeJS.png',
+    tags: ['HTML/CSS','Node.js/Express',' Firebase Fistore'],
+    source: 'https://google.com',
+    visit: 'https://github.com/hbfawaz112/Blogging-Site-Full-Stack',
+    id: 1,
+  },
+  
+  {
     title: 'Moodle ULFS',
     description:"This is a web project developed using php-mysql , it’s about 2 website one for the instructors to upload files as pdf courses, sessions, … , and one for the students that can acces to their account and download these files.",
     image: '/images/moodle1.png',
