@@ -39,7 +39,7 @@ export const projects = [
     title: 'Blogging Platform ',
     description:"A Blog Site containing the following features : Dynamic Blog pages , have a dedicated editor for blogs, you can add/make as many blogs you want, you can add Headings, paragraphs, and Images to the blog post ,have read more blogs section also.",
     image: '/images/blognode.png',
-    tags: ['HTML/CSS','Node.js/Express',' Firebase Fistore'],
+    tags: ['HTML/CSS','Node.js',' Firebase Firestore'],
     source: 'https://google.com',
     visit: 'https://github.com/hbfawaz112/Blogging-Site-Full-Stack',
     id: 1,
