@@ -18,7 +18,7 @@ const Hero = (props) => (
         
         <Button  onClick={(e) => {
       e.preventDefault();
-      window.location.href='https://www.keepandshare.com/doc29/113587/hussein-b-fawaz-resume-12-07-2021-20-48-10-pdf-47k?da=y';
+      window.location.href='http://www.keepandshare.com/doc29/view.php?id=113870&da=y';
       }} >My Resume</Button>
       </LeftSection>
     </Section>
