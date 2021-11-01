@@ -28,7 +28,7 @@ export const projects = [
     id: 0,
   },
   {
-    title: 'Mushrrom Detector',
+    title: 'Mushroom Detector',
     description: " An app used to detect and predict the type of the mushroom by taking a picture of it from a camera or import the image from the gallery. Plus some guide about many kinds of  mushrooms",
     image: '/images/mushrrom.png',
     tags: ['Flutter', 'Machine Learning ',' Tenserflow Lite'],
