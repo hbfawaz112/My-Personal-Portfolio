@@ -26,6 +26,7 @@ row-gap: 3rem;
 export const BlogCard = styled.div`
   margin:30px;
   display:flex;
+  box-shadow: 3px 3px 20px rgba(80, 78, 78, 0.5);
   align-items: center;
   text-align: center;
   width: 90%;
