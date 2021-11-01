@@ -1,7 +1,8 @@
 import React from 'react';
-import { DiFirebase, DiReact, DiZend, DiAndroid } from 'react-icons/di';
+import { DiFirebase, DiReact, DiZend, DiAndroid ,DiPython } from 'react-icons/di';
 import { BsDisplay } from 'react-icons/bs';
-
+import { BiBrain } from 'react-icons/bi';
+import {GiBrain} from 'react-icons/gi';
 import { Section, SectionDivider, SectionText, SectionTitle } from '../../styles/GlobalComponents';
 import { List, ListContainer, ListItem, ListParagraph, ListTitle } from './TechnologiesStyles';
 
@@ -49,7 +50,8 @@ const Technologies = () =>  (
       <ListItem>
         <picture>
           <DiAndroid size="5rem" />
-        </picture>
+        
+                  </picture>
         <ListContainer>
           <ListTitle>Mobile Development</ListTitle>
           <ListParagraph>
@@ -68,6 +70,20 @@ const Technologies = () =>  (
           <ListParagraph>
             Experience with <br />
             Java Swing - JavaFX - Windows C#.
+          </ListParagraph>
+        </ListContainer>
+      </ListItem>
+
+      <ListItem>
+        <picture>
+          <GiBrain size="5rem" />
+          <DiPython  size="5rem" />
+                  </picture>
+        <ListContainer>
+          <ListTitle>AI - Machine Learning - Computer Vision  And Data science </ListTitle>
+          <ListParagraph>
+            Experience with <br /> Python 
+             - Opencv - scikitlearn - NumPy - Pandas - matplotlib - sreval Machine Learning models and algorithms.
           </ListParagraph>
         </ListContainer>
       </ListItem>
