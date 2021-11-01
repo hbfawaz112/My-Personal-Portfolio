@@ -9,11 +9,12 @@ const Projects = () => (
   <Section nopadding id="projects">
     <SectionDivider />
     <SectionTitle main>Projects</SectionTitle>
-    <GridContainer>
+    
       {projects.map((p, i) => {
         return (
           <BlogCard key={i}>
-          <Img width="800px" src={p.image} />
+          <Img src={p.image} />
+          <div>
             <TitleContent>
               <HeaderThree title>{p.title}</HeaderThree>
               <Hr />
@@ -32,10 +33,12 @@ const Projects = () => (
             <ExternalLinks href={p.visit}>See More</ExternalLinks>
              
             </UtilityList>
+            </div>
+           
           </BlogCard>
         );
       })}
-    </GridContainer>
+    
   </Section>
 );
 
