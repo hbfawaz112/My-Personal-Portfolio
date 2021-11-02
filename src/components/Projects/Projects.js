@@ -13,7 +13,7 @@ const Projects = () => (
       {projects.map((p, i) => {
         return (
           <BlogCard key={i}>
-          <Img src={p.image} />
+          
           <div>
             <TitleContent>
               <HeaderThree title>{p.title}</HeaderThree>
@@ -34,7 +34,7 @@ const Projects = () => (
              
             </UtilityList>
             </div>
-           
+           <Img src={p.image} />
           </BlogCard>
         );
       })}
