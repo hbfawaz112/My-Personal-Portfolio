@@ -19,7 +19,7 @@ const Hero = (props) => (
         <Button  onClick={(e) => {
       e.preventDefault();
       window.location.href='https://drive.google.com/file/d/11qtvbdaLkNYV29dXJI_H99V1ZhshcZPP/view';
-      }} >My CV</Button>
+      }} >My Resume</Button>
       </LeftSection>
     </Section>
   </>
