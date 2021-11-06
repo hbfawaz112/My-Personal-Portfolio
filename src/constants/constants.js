@@ -38,7 +38,7 @@ export const projects = [
   },
   {
     title: 'Machine Learning And Data Science Projects',
-    description: "Some Machine Learning and Data Science projects made with python such as Twitter Sentiment Analysis, Covid-19 Data Analysis, Face Detection, Image To Text- A bunch of ML algotithms and more.",
+    description: "Some Machine Learning and Data Science projects made with python such as Twitter Sentiment Analysis, Covid-19 Data Analysis, Face Detection, Image To Text, a bunch of ML algotithms and more.",
     image: '/images/ML_DS.png',
     tags: ['Data Science', 'ML','Image Recognition',' Python'],
     source: 'https://google.com',
