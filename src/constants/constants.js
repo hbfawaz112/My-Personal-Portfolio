@@ -28,12 +28,21 @@ export const projects = [
     id: 0,
   },
   {
-    title: 'Mushroom Detector',
+    title: 'Mushrrom Detector',
     description: " An app used to detect and predict the type of the mushroom by taking a picture of it from a camera or import the image from the gallery. Plus some guide about many kinds of  mushrooms",
     image: '/images/mushrrom.png',
     tags: ['Flutter', 'Machine Learning ',' Tenserflow Lite'],
     source: 'https://google.com',
     visit: 'https://github.com/hbfawaz112/Mushroom-Detector-Flutter-ML',
+    id: 0,
+  },
+  {
+    title: 'Machine Learning And Data Science Projects',
+    description: "Some Machine Learning and Data Science projects made with python such as Twitter Sentiment Analysis, Covid-19 Data Analysis, Face Detection, Image To Text- A bunch of ML algotithms and more.",
+    image: '/images/ML_DS.png',
+    tags: ['Data Science', 'ML','Image Recognition',' Python'],
+    source: 'https://google.com',
+    visit: 'https://github.com/hbfawaz112/ML-Data-Science-Projects',
     id: 0,
   },
   
