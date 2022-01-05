@@ -74,19 +74,7 @@ const Technologies = () =>  (
         </ListContainer>
       </ListItem>
 
-      <ListItem>
-        <picture>
-          <GiBrain size="5rem" />
-          <DiPython  size="5rem" />
-                  </picture>
-        <ListContainer>
-          <ListTitle>AI - Machine Learning - Computer Vision  And Data science </ListTitle>
-          <ListParagraph>
-            Experience with <br /> Python 
-             - Opencv - scikitlearn - NumPy - Pandas - matplotlib - sreval Machine Learning models and algorithms.
-          </ListParagraph>
-        </ListContainer>
-      </ListItem>
+      
       
 
     </List>
