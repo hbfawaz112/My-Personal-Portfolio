@@ -37,6 +37,15 @@ export const projects = [
     id: 0,
   },
   {
+    title: 'Stream Data Analysis - Twitter Sentiment',
+    description: " Stream data analysis pipline for the twitter sentiment analysis talking about a specif topic, using specific technologies and tools like kafka, azuer, mongodb and it was simulated in pyton",
+    image: '/images/twitter_stream.PNG',
+    tags: ['Pyton', 'Azure Cloud ', 'Kafka', 'MongoDB'],
+    source: 'https://google.com',
+    visit: 'https://github.com/hbfawaz112/Streaming-Data-Analysis',
+    id: 0,
+  },
+  {
     title: 'Machine Learning And Data Science Projects',
     description: "Some Machine Learning and Data Science projects made with python such as Twitter Sentiment Analysis, Covid-19 Data Analysis, Face Detection, Image To Text, a bunch of ML algotithms and more.",
     image: '/images/ML_DS.png',
