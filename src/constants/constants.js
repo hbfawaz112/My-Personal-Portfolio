@@ -40,7 +40,7 @@ export const projects = [
     title: ' Twitter Stream Data Analysis',
     description: " Stream data analysis pipline for the twitter sentiment analysis talking about a specif topic, using specific technologies and tools like kafka, azuer, mongodb and it was simulated in pyton",
     image: '/images/twitter_stream.PNG',
-    tags: ['Pyton', 'Azure Cloud ', 'Kafka', 'MongoDB'],
+    tags: ['Python', 'Azure Cloud ', 'Kafka', 'MongoDB'],
     source: 'https://google.com',
     visit: 'https://github.com/hbfawaz112/Streaming-Data-Analysis',
     id: 0,
