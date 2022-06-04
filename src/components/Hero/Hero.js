@@ -13,7 +13,7 @@ const Hero = (props) => (
           My Personal Portfolio
         </SectionTitle>
         <SectionText>
-        Hi, my name is Hussein B. Fawaz .<br></br>A Full Stack Developer .<br></br> I live in Lebanon and currently studying master's in computer science at Lebanese University.
+        Hi, my name is Hussein B. Fawaz .<br></br>A Full Stack Developer Intern at Aphelio - Grenoble .<br></br> I live in France and currently studying master's in computer science at Lebanese University.
         </SectionText>
         
         <Button  onClick={(e) => {
