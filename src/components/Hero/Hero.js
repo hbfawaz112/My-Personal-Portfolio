@@ -18,7 +18,7 @@ const Hero = (props) => (
         
         <Button  onClick={(e) => {
       e.preventDefault();
-      window.location.href='https://drive.google.com/file/d/140XItM46vAer14X_cYK-Ytbd9DmnkOt3/view?usp=sharing';
+      window.location.href='https://drive.google.com/file/d/1dSoLFQXjxfNcxAC75tbaFfoYVXGIYdhm/view?usp=sharing';
       }} >My Resume</Button>
       </LeftSection>
     </Section>
