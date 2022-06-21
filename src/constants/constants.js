@@ -121,5 +121,7 @@ export const TimeLineData = [
   { year: 2020, text: 'Graduate with BS In Computer Science From Lebanese University', },
   { year: 2021, text: 'Finishing My Master 1 In Computer Science', },
   { year: 2022, text: 'Continue My Master 2 In Data Science For Risk Analysis ', },
+  { year: 2022, text: 'Started my internship in April as software developer in Aphelio - Grenoble-France', },
+  
   
 ];
