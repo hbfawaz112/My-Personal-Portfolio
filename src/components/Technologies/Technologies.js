@@ -27,7 +27,7 @@ const Technologies = () =>  (
           <ListTitle>Front-End</ListTitle>
           <ListParagraph>
             Experience with <br />
-            HTML5 - CSS3 - Bootstrap  JavaScript - JQuery - Reactjs - Vuejs
+            HTML5 - CSS3 - Bootstrap  JavaScript - JQuery - React.js - Vue.js
           </ListParagraph>
         </ListContainer>
       </ListItem>
@@ -39,7 +39,7 @@ const Technologies = () =>  (
           <ListTitle>Back-End And Data Bases</ListTitle>
           <ListParagraph>
             Experience with <br />
-            Django and Djago Rest Framework - PHP - ASP.NET C# - Nodejs.
+            Django and Django Rest Framework - PHP - ASP.NET C# - Nodejs.
             <br />
             Microsoft SQL Server - MySQL - MongoDB - Firebase(Real Time DB and Firestore)
          
